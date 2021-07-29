@@ -26,11 +26,13 @@ enum typeAlias {
      * Function or expression have no value returns
     */
     void = -1,
-    any,
+    
     i32,
     i64,
     f32,
     f64,
+
+    any,
     string,
     boolean,
 
